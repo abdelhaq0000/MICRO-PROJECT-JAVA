@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<students>
+  <student name="abdelhaq matlini" apogee="12345" prenom="Jane" email="john.doe@example.com">
+    <noteN>95.5</noteN>
+    <noteR>88.0</noteR>
+  </student>
+  <student name="aya" prenom="soli" email="aya.doe@example.com" apogee="7252">
+    <noteN>900</noteN>
+    <noteR>9060</noteR>
+  </student>
+  <student name="nore" prenom="JOJ" email="nore.doe@example.com" apogee="87272">
+    <noteN>900</noteN>
+    <noteR>9060</noteR>
+  </student>
+  <student name="adil" prenom="fop" email="adil.doe@example.com" apogee="76762">
+    <noteN>900</noteN>
+    <noteR>9060</noteR>
+  </student>
+  <student name="OMAR" prenom="gigi" email="hiii.doe@example.com" apogee="87823">
+    <noteN>900</noteN>
+    <noteR>9060</noteR>
+  </student>
+  <student name="nizar" apogee="12345" prenom="Jane" email="john.doe@example.com">
+    <noteN>95.5</noteN>
+    <noteR>88.0</noteR>
+  </student>
+  <student name="meryam" prenom="soli" email="aya.doe@example.com" apogee="7252">
+    <noteN>900</noteN>
+    <noteR>9060</noteR>
+  </student>
+  <student name="dalila" prenom="JOJ" email="nore.doe@example.com" apogee="87272">
+    <noteN>900</noteN>
+    <noteR>9060</noteR>
+  </student>
+  <student name="mohammed" prenom="fop" email="adil.doe@example.com" apogee="76762">
+    <noteN>900</noteN>
+    <noteR>9060</noteR>
+  </student>
+  <student name="OMAR" prenom="gigi" email="hiii.doe@example.com" apogee="87823">
+    <noteN>900</noteN>
+    <noteR>9060</noteR>
+  </student>
+
+</students>
